@@ -2,7 +2,7 @@ Got it! Here’s an updated README file for your REST API testing framework crea
 
 ---
 
-# REST API Testing Framework
+# REST API Testing Suite with CI/CD Integration
 
 ## Overview
 
